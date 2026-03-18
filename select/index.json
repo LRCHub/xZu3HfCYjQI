@@ -1,0 +1,40 @@
+{
+  "version": 1,
+  "base_track": "ずっと空を見ていた",
+  "base_artist": "n-buna",
+  "createdAt": "2026-03-18T03:33:34.019149Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "ずっと空を見ていた",
+      "artist": "n-buna",
+      "has_synced": true,
+      "path": "select/01_ずっと空を見ていた_n-buna.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "ずっと空を見ていた",
+      "artist": "ナブナ",
+      "has_synced": true,
+      "path": "select/02_ずっと空を見ていた_ナブナ.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "ずっと空を見ていた",
+      "artist": "n-buna feat.miki",
+      "has_synced": true,
+      "path": "select/03_ずっと空を見ていた_n-buna_feat.miki.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ずっと空を見ていた",
+      "artist": "n-buna",
+      "has_synced": false,
+      "path": "select/pl_01_ずっと空を見ていた_n-buna.txt"
+    }
+  ]
+}
